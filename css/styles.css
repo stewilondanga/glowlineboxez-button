@@ -351,11 +351,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   bottom: 7px;
 }
 
-/*.bttn.cyan span {
+.bttn.cyan span {
   color: cyan;
 }
 
-.bttn.cyan .corners:after, .bttn.cyan .corners:before {
+/*.bttn.cyan .corners:after, .bttn.cyan .corners:before {
   border-color: cyan;
 }
 
