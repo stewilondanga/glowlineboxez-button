@@ -49,12 +49,12 @@ ol, ul {
   list-style: none;
 }
 
-/*table {
+table {
   border-collapse: collapse;
   border-spacing: 0;
 }
 
-caption, th, td {
+/*caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle;
