@@ -189,7 +189,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   }
 }
 
-/*.wrapper {
+.wrapper {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -199,7 +199,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   text-align: center;
 }
 
-.bttn {
+/*.bttn {
   display: inline-block;
   vertical-align: middle;
   position: relative;
