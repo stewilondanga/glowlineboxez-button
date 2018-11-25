@@ -215,11 +215,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   transition: all 0.3s ease-out;
 }
 
-/*.bttn:hover {
+.bttn:hover {
   cursor: pointer;
 }
 
-.bttn.out .corners {
+/*.bttn.out .corners {
   position: absolute;
   width: 100%;
   transition-duration: 0.3s;
