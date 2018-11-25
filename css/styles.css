@@ -158,14 +158,14 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   }
 }
 
-/*@keyframes svg_fill_inactive {
+@keyframes svg_fill_inactive {
   100% {
     fill: #ebebeb;
     fill-opacity: 1;
   }
 }
 
-@-webkit-keyframes svg_stroke_inactive {
+/*@-webkit-keyframes svg_stroke_inactive {
   100% {
     stroke: #ebebeb;
   }
