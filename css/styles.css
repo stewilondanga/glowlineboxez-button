@@ -253,11 +253,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   border-width: 0 1px 1px 0;
 }
 
-/*.bttn.out .corners:before {
+.bttn.out .corners:before {
   left: 0;
 }
 
-.bttn.out .corners:after {
+/*.bttn.out .corners:after {
   right: 0;
 }
 
