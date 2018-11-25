@@ -307,11 +307,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   border-width: 1px 0 0 1px;
 }
 
-/*.bttn.in .corners.top:after {
+.bttn.in .corners.top:after {
   border-width: 1px 1px 0 0;
 }
 
-.bttn.in .corners.bottom:before {
+/*.bttn.in .corners.bottom:before {
   border-width: 0 0 1px 1px;
 }
 
