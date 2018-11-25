@@ -319,11 +319,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   border-width: 0 1px 1px 0;
 }
 
-/*.bttn.in .corners:before {
+.bttn.in .corners:before {
   left: 20px;
 }
 
-.bttn.in .corners:after {
+/*.bttn.in .corners:after {
   right: 20px;
 }
 
