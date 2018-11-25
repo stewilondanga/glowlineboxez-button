@@ -64,12 +64,12 @@ q, blockquote {
   quotes: none;
 }
 
-/*q:before, q:after, blockquote:before, blockquote:after {
+q:before, q:after, blockquote:before, blockquote:after {
   content: "";
   content: none;
 }
 
-a img {
+/*a img {
   border: none;
 }
 
