@@ -327,11 +327,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   right: 20px;
 }
 
-/*.bttn.in .corners.top {
+.bttn.in .corners.top {
   top: 20px;
 }
 
-.bttn.in .corners.bottom {
+/*.bttn.in .corners.bottom {
   bottom: 27px;
 }
 
