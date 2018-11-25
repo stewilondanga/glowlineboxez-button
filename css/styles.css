@@ -73,11 +73,11 @@ a img {
   border: none;
 }
 
-/*article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
   display: block;
 }
 
-.clearfix:before, .clearfix:after {
+/*.clearfix:before, .clearfix:after {
   content: "";
   display: table;
 }
