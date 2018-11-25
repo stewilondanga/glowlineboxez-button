@@ -343,11 +343,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   right: 0;
 }
 
-/*.bttn.in:hover .corners.top {
+.bttn.in:hover .corners.top {
   top: 0;
 }
 
-.bttn.in:hover .corners.bottom {
+/*.bttn.in:hover .corners.bottom {
   bottom: 7px;
 }
 
