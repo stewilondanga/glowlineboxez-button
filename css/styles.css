@@ -425,11 +425,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   bottom: 7px;
 }
 
-/*.box:hover .corners:before {
+.box:hover .corners:before {
   left: 20px;
 }
 
-.box:hover .corners:after {
+/*.box:hover .corners:after {
   right: 20px;
 }
 
