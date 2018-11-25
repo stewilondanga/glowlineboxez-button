@@ -86,14 +86,14 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   clear: both;
 }
 
-/*.sepa {
+.sepa {
   width: 90%;
   height: 1px;
   margin: 0px auto;
   border-top: 1px dashed #ecf0f1;
 }
 
-.noselect {
+/*.noselect {
   -moz-user-select: -moz-none;
   -webkit-user-select: none;
   -ms-user-select: none;
