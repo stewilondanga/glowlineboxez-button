@@ -100,12 +100,12 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   user-select: none;
 }
 
-/*.pause-anim {
+.pause-anim {
   -webkit-animation-play-state: paused !important;
   animation-play-state: paused !important;
 }
 
-@-webkit-keyframes svg_outline {
+/*@-webkit-keyframes svg_outline {
   100% {
     stroke-dashoffset: 0;
   }
