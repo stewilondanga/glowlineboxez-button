@@ -261,11 +261,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   right: 0;
 }
 
-/*.bttn.out .corners.top {
+.bttn.out .corners.top {
   top: 0;
 }
 
-.bttn.out .corners.bottom {
+/*.bttn.out .corners.bottom {
   bottom: 7px;
 }
 
