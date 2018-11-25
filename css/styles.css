@@ -315,11 +315,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   border-width: 0 0 1px 1px;
 }
 
-/*.bttn.in .corners.bottom:after {
+.bttn.in .corners.bottom:after {
   border-width: 0 1px 1px 0;
 }
 
-.bttn.in .corners:before {
+/*.bttn.in .corners:before {
   left: 20px;
 }
 
