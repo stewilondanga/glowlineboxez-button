@@ -82,11 +82,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   display: table;
 }
 
-/*.clearfix:after {
+.clearfix:after {
   clear: both;
 }
 
-.sepa {
+/*.sepa {
   width: 90%;
   height: 1px;
   margin: 0px auto;
