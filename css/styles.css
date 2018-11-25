@@ -219,13 +219,13 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   cursor: pointer;
 }
 
-/*.bttn.out .corners {
+.bttn.out .corners {
   position: absolute;
   width: 100%;
   transition-duration: 0.3s;
 }
 
-.bttn.out .corners:before, .bttn.out .corners:after {
+/*.bttn.out .corners:before, .bttn.out .corners:after {
   content: '';
   position: absolute;
   width: 7px;
