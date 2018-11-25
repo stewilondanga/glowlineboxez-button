@@ -93,14 +93,14 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   border-top: 1px dashed #ecf0f1;
 }
 
-/*.noselect {
+.noselect {
   -moz-user-select: -moz-none;
   -webkit-user-select: none;
   -ms-user-select: none;
   user-select: none;
 }
 
-.pause-anim {
+/*.pause-anim {
   -webkit-animation-play-state: paused !important;
   animation-play-state: paused !important;
 }
