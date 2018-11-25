@@ -499,13 +499,13 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   transition: all 0.4s linear;
 }
 
-/*.cal caption {
+.cal caption {
   background: #d44;
   color: #eee;
   font-size: 15px;
 }
 
-.cal th {
+/*.cal th {
   color: #aaa;
   line-height: 200%;
 }
