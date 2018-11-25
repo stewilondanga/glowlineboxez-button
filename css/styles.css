@@ -45,11 +45,11 @@ body {
   height: 1.5em;
 }
 
-/*ol, ul {
+ol, ul {
   list-style: none;
 }
 
-table {
+/*table {
   border-collapse: collapse;
   border-spacing: 0;
 }
