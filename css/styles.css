@@ -355,11 +355,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   color: cyan;
 }
 
-/*.bttn.cyan .corners:after, .bttn.cyan .corners:before {
+.bttn.cyan .corners:after, .bttn.cyan .corners:before {
   border-color: cyan;
 }
 
-.box {
+/*.box {
   display: inline-block;
   vertical-align: middle;
   position: relative;
