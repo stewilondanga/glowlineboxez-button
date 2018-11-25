@@ -281,11 +281,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   top: 20px;
 }
 
-/*.bttn.out:hover .corners.bottom {
+.bttn.out:hover .corners.bottom {
   bottom: 27px;
 }
 
-.bttn.in .corners {
+/*.bttn.in .corners {
   position: absolute;
   width: 100%;
   transition-duration: 0.3s;
