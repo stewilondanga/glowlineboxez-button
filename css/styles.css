@@ -257,11 +257,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   left: 0;
 }
 
-/*.bttn.out .corners:after {
+.bttn.out .corners:after {
   right: 0;
 }
 
-.bttn.out .corners.top {
+/*.bttn.out .corners.top {
   top: 0;
 }
 
