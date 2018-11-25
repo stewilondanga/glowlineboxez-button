@@ -237,11 +237,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   transform: translateZ(0);
 }
 
-/*.bttn.out .corners.top:before {
+.bttn.out .corners.top:before {
   border-width: 1px 0 0 1px;
 }
 
-.bttn.out .corners.top:after {
+/*.bttn.out .corners.top:after {
   border-width: 1px 1px 0 0;
 }
 
