@@ -199,14 +199,14 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   text-align: center;
 }
 
-/*.bttn {
+.bttn {
   display: inline-block;
   vertical-align: middle;
   position: relative;
   margin: 20px;
 }
 
-.bttn span {
+/*.bttn span {
   display: block;
   padding: 30px;
   font-size: 30px;
