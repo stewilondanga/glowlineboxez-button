@@ -206,7 +206,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   margin: 20px;
 }
 
-/*.bttn span {
+.bttn span {
   display: block;
   padding: 30px;
   font-size: 30px;
@@ -215,7 +215,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   transition: all 0.3s ease-out;
 }
 
-.bttn:hover {
+/*.bttn:hover {
   cursor: pointer;
 }
 
