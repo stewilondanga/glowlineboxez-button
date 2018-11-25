@@ -441,7 +441,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   bottom: 27px;
 }
 
-/*@-webkit-keyframes fadeIn {
+@-webkit-keyframes fadeIn {
   from {
     opacity: 0;
     -webkit-transform: translateY(50%);
@@ -454,7 +454,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   }
 }
 
-@keyframes fadeIn {
+/*@keyframes fadeIn {
   from {
     opacity: 0;
     -webkit-transform: translateY(50%);
