@@ -335,11 +335,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   bottom: 27px;
 }
 
-/*.bttn.in:hover .corners:before {
+.bttn.in:hover .corners:before {
   left: 0;
 }
 
-.bttn.in:hover .corners:after {
+/*.bttn.in:hover .corners:after {
   right: 0;
 }
 
