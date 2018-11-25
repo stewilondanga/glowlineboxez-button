@@ -165,13 +165,13 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   }
 }
 
-/*@-webkit-keyframes svg_stroke_inactive {
+@-webkit-keyframes svg_stroke_inactive {
   100% {
     stroke: #ebebeb;
   }
 }
 
-@keyframes svg_stroke_inactive {
+/*@keyframes svg_stroke_inactive {
   100% {
     stroke: #ebebeb;
   }
