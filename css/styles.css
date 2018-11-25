@@ -323,11 +323,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   left: 20px;
 }
 
-/*.bttn.in .corners:after {
+.bttn.in .corners:after {
   right: 20px;
 }
 
-.bttn.in .corners.top {
+/*.bttn.in .corners.top {
   top: 20px;
 }
 
