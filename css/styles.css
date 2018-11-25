@@ -393,11 +393,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   transform: translateZ(0);
 }
 
-/*.box .corners.top:before {
+.box .corners.top:before {
   border-width: 1px 0 0 1px;
 }
 
-.box .corners.top:after {
+/*.box .corners.top:after {
   border-width: 1px 1px 0 0;
 }
 
