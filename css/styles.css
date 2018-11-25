@@ -269,11 +269,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   bottom: 7px;
 }
 
-/*.bttn.out:hover .corners:before {
+.bttn.out:hover .corners:before {
   left: 20px;
 }
 
-.bttn.out:hover .corners:after {
+/*.bttn.out:hover .corners:after {
   right: 20px;
 }
 
