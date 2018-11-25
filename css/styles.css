@@ -54,13 +54,13 @@ table {
   border-spacing: 0;
 }
 
-/*caption, th, td {
+caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle;
 }
 
-q, blockquote {
+/*q, blockquote {
   quotes: none;
 }
 
