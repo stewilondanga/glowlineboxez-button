@@ -433,11 +433,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   right: 20px;
 }
 
-/*.box:hover .corners.top {
+.box:hover .corners.top {
   top: 20px;
 }
 
-.box:hover .corners.bottom {
+/*.box:hover .corners.bottom {
   bottom: 27px;
 }
 
