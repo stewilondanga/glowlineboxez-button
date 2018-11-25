@@ -285,13 +285,13 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   bottom: 27px;
 }
 
-/*.bttn.in .corners {
+.bttn.in .corners {
   position: absolute;
   width: 100%;
   transition-duration: 0.3s;
 }
 
-.bttn.in .corners:before, .bttn.in .corners:after {
+/*.bttn.in .corners:before, .bttn.in .corners:after {
   content: '';
   position: absolute;
   width: 7px;
