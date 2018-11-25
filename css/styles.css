@@ -137,14 +137,14 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   }
 }
 
-/*@-webkit-keyframes svg_fill_active {
+@-webkit-keyframes svg_fill_active {
   100% {
     fill: #e25027;
     fill-opacity: 1;
   }
 }
 
-@keyframes svg_fill_active {
+/*@keyframes svg_fill_active {
   100% {
     fill: #e25027;
     fill-opacity: 1;
