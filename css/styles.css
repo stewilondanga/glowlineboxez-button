@@ -429,11 +429,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   left: 20px;
 }
 
-/*.box:hover .corners:after {
+.box:hover .corners:after {
   right: 20px;
 }
 
-.box:hover .corners.top {
+/*.box:hover .corners.top {
   top: 20px;
 }
 
