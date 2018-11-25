@@ -117,7 +117,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   }
 }
 
-/*@-webkit-keyframes svg_outline_hide {
+@-webkit-keyframes svg_outline_hide {
   0% {
     stroke-dashoffset: 0;
   }
@@ -127,7 +127,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   }
 }
 
-@keyframes svg_outline_hide {
+/*@keyframes svg_outline_hide {
   0% {
     stroke-dashoffset: 0;
   }
