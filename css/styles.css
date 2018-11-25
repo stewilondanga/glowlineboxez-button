@@ -417,11 +417,11 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   right: 0;
 }
 
-/*.box .corners.top {
+.box .corners.top {
   top: 0;
 }
 
-.box .corners.bottom {
+/*.box .corners.bottom {
   bottom: 7px;
 }
 
